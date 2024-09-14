@@ -28,7 +28,7 @@ This is a generic template for a **Course Management System** built with Node.js
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/course-management.git
+    git clone https://github.com/rk4rohankumar/Course-Management.git
     ```
 
 2. Install dependencies:
